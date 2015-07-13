@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>My Basic Form</title>
+	<link rel="stylesheet" href="form.css">
+</head>
+
+<body>
+	<div class="access">
+		<a href="sign-up.html" target="_blank">Sign-up</a>
+		<br>
+		<a href="login.html" target="_blank">Login</a>
+	</div>
+</body>
+
+</html>

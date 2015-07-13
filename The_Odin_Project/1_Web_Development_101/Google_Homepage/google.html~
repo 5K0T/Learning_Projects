@@ -1,0 +1,51 @@
+<!DOCTYPE>
+
+<html>
+
+	<head>
+		<link rel="stylesheet" href="google.css" type="text/css">
+		<title>Google</title>
+	</head>
+
+	<body>
+		<div class="container">
+		
+			<div class="header">
+				<ul id="lists">
+					<li id="item"><a href="#">+Name</a></li>
+					<li id="item"><a href="#">Gmail</a></li>
+					<li id="item"><a href="#">Images</a></li>
+					<li id="item"><a href="#"><img id="apps_img" src="images/apps.png" alt="Google Apps"></a></li>
+					<li id="item"><a href="#"><img id="apps_img" src="images/notification.png" alt="Google Notifications"></a></li>
+					<li id="item"><a href="#"><img id="rnd_img" src="images/blueperson.png" alt="Google Accounts"></a></li>
+				</ul>
+			</div>
+			<center>
+			<div class="content">
+			<img id="logo" src="images/logo11w.png" alt="Google" width="300" height="100">
+			<form>
+				<input type="text" size="50"><br>
+				<input type="submit" value="Search Google">
+				<input type="submit" value="I'm Feeling Lucky">		
+			</form>
+			</div>
+			</center>
+			<div class="footer">
+			<div class="left_foot">
+				<ul id="list">
+					<li id="item"><a href="#">Advertising</a></li>
+					<li id="item"><a href="#">Business</a></li>
+					<li id="item"><a href="#">About</a></li>
+				</ul>
+			</div>
+			<div class="right_foot">
+				<ul id="list">
+					<li id="item"><a href="#">Privacy</a></li>
+					<li id="item"><a href="#">Terms</a></li>
+					<li id="item"><a href="#">Settings</a></li>
+				</ul>
+			</div>
+			</div>
+		</div>
+	</body>
+</html>

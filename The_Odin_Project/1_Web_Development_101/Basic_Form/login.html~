@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Login</title>
+	<link rel="stylesheet" href="form.css">
+</head>
+
+<body>
+	<div class="form_block">
+		<div class="login">
+			<form>
+				<h1>Login</h1>
+				Username:<br>
+				<input type="text" name="username">
+				<br>
+				Password:<br> 
+				<input type="password" name="password">
+				<input type="submit" value="Submit">
+			</form>
+		</div>
+	</div>
+</body>
+
+</html>

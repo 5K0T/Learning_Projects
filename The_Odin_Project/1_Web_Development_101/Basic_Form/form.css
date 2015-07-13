@@ -1,0 +1,10 @@
+div{
+
+}
+.form_block{
+	display: inline-block;
+	width: 500px; height:500px;
+	margin: 50px;
+	border: 1px dotted #000000;
+	padding: 10px;
+}
